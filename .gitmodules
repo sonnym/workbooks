@@ -1,0 +1,9 @@
+[submodule "awk"]
+	path = awk
+	url = git@github.com:sonnym/workbook-awk.git
+[submodule "k_and_r"]
+	path = k_and_r
+	url = git@github.com:sonnym/workbook-k_and_r.git
+[submodule "plai"]
+	path = plai
+	url = git@github.com:sonnym/workbook-plai.git
